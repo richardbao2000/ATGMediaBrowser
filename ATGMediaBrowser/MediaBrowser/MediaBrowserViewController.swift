@@ -21,6 +21,8 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 
+import UIKit
+
 // MARK: - MediaBrowserViewControllerDataSource protocol
 /// Protocol to supply media browser contents.
 public protocol MediaBrowserViewControllerDataSource: class {

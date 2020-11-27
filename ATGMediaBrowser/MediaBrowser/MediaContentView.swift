@@ -21,6 +21,8 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 
+import UIKit
+
 /// Holds the value of minimumZoomScale and maximumZoomScale of the image.
 public struct ZoomScale {
 
